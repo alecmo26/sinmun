@@ -26,4 +26,4 @@ People say that the hardest part of keeping a journal is how it can be overwhelm
 We created Sinmun to give keep people from being overwhelmed by shorteniing how much can be put into the journal to 30 words max.
 Then made it easy to keep track of your journaling and keep it from feeling to overwhelming.
 Using this simple layout
-![display](This PC/Pictures/Screenshots/Screenshot(1).png)  
+![display](This PC/Pictures/Screenshots/Screenshot (1).png)  
