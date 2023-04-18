@@ -20,3 +20,10 @@ Lets say you had a long day at work and you feel like making a note of how the w
 ### I want a simple journal app
 ### So that I do not have to write a novel to describe my day
 
+## ⏰ Quick and easy Journaling ⏰
+What is the reason so many people don't keep a journal?
+People say that the hardest part of keeping a journal is how it can be overwhelming and the second reason is always because it takes to much time.
+We created Sinmun to give keep people from being overwhelmed by shorteniing how much can be put into the journal to 30 words max
+Then made it easy to keep track of your journaling and keep it from feeling to overwhelming
+Using this simple layout
+![display](This PC/Pictures/Screenshots/Screenshot(1).png)  
