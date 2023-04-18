@@ -5,7 +5,7 @@ Sinmun is journal in Korean!
 Neophytes is used to describe someone new to a subject or skill!
 ## What kind of application is Sinmun? 🖊️
 Sinmun is a journal application that allows the user to take a small amount of their time to make a journal entry on how their day was.
-![Link Name](https://miro.medium.com/v2/resize:fit:1400/0*X7y7ooEKYshHG866) 
+![Link Name](https://miro.medium.com/v2/resize:fit:800/0*X7y7ooEKYshHG866) 
 ## ❓ Why use Sinmun ❓
  - Sinmun is unlike other journal apps. This is going to be a short journal, it will take no more than 4-5 minutes to make an entry for that day. <br>
  - Each journal entry will be at max 30 words or less. This means that it is a small summary of your day.<br>
